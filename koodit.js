@@ -23,7 +23,7 @@ switch(koodi) {
     var palaute = "Istu kohtaan 6,8 ja nauti elokuvasta.";
     break;
   case "116734":
-    var palaute = "Neljä huonetta piirtävät reitin. 118,126,166,182A";
+    var palaute = "Neljä huonetta piirtävät reitin. 118,126,166,182A. Ai, ja piirrä X.";
     break;
   case "000":
     var palaute = "Viesti kuuluu: DYSUBOTEDUUDZEOOEKH72W1J. Vihjeenä AhnQiraj-20, mutta tarvitset lisää radan vihjeitä.";
