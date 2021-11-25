@@ -2,7 +2,7 @@
 function testaaKoodi(koodi){
 switch(koodi) {
   case "159723":
-    var palaute = "Koodi koko radan ratkaisuun on 000. Etsi kuitenkin ensin Alyssa.";
+    var palaute = "Koodi koko radan ratkaisuun on 000. Etsi kuitenkin ensin Sanna.";
     break;
   case "954367":
     var palaute = "Etsi ruokalasta paikka, mistä näet ajan ja voit vaikuttaa!";
