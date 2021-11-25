@@ -10,7 +10,7 @@ switch(koodi) {
   case "436571":
     var palaute = "Optiikan isä";
     break;
-  case "127954":
+  case "625143":
     var palaute = "Pelaa Anttia vastaan ja voita";
     break;
   case "669745":
